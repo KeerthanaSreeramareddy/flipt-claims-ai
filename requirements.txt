@@ -1,0 +1,4 @@
+ipywidgets
+sentence-transformers
+google-genai
+numpy
