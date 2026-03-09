@@ -14,7 +14,7 @@ Technologies Used:
 - Google Gemini
 - NumPy
 - ipywidgets
-- 
+  
 ## Architecture
 The system follows a Retrieval-Augmented Generation (RAG) architecture:
 User Query  
