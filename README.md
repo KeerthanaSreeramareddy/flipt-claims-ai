@@ -16,6 +16,7 @@ Technologies Used:
 - ipywidgets
   
 ## Architecture
+![Architecture Diagram](architecture.png)
 The system follows a Retrieval-Augmented Generation (RAG) architecture:
 User Query  
 ↓  
